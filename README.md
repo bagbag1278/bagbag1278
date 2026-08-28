@@ -82,16 +82,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagbag1728&show_icons=true&theme=radical&border_color=4F46E5&bg_color=0d1117&include_all_commits=true" 
+  <!-- کارت آمار اصلی (بدون count_private=true) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bagbag1728&show_icons=true&theme=radical&border_color=4F46E5&bg_color=0d1117" 
        alt="GitHub Stats" 
        width="420" />
   
+  <!-- استریک آماری (پایدارتر) -->
   <img src="https://streak-stats.demolab.com?user=bagbag1728&theme=radical&border=4F46E5&background=0d1117" 
        alt="GitHub Streak" 
        width="420" />
   
   <br><br>
   
+  <!-- زبان‌های پرکاربرد -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagbag1728&theme=radical&border_color=4F46E5&bg_color=0d1117&layout=compact" 
        alt="Top Languages" 
        width="420" />
@@ -159,3 +162,4 @@
   </p>
 
 </div>
+
