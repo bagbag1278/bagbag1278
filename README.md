@@ -1,61 +1,56 @@
 <div align="center">
 
-  <!-- Avatar -->
-  <img src="https://avatars.githubusercontent.com/u/160089815" 
-       alt="Amir Valian Avatar" 
-       width="180" 
-       height="180"
-       style="border-radius: 50%; border: 3px solid #4F46E5;" />
+<!-- Avatar -->
+<img src="https://avatars.githubusercontent.com/u/160089815" 
+     alt="Amir Valian Avatar" 
+     width="160" 
+     style="border-radius: 50%; border: 3px solid #4F46E5;" />
 
-  <br><br>
+<br><br>
 
-  <!-- Name & Title -->
-  <h1 style="font-size: 2.5em; margin-bottom: 0.2em; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
-    Amir Valian
-  </h1>
-  
-  <h2 style="font-size: 1.3em; color: #6b7280; margin-top: 0;">
-    Frontend Developer
-  </h2>
+<!-- Name & Title -->
+<h1 style="font-size: 2.5em; margin-bottom: 0.2em; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+  Amir Valian
+</h1>
 
-  <br>
+<h2 style="font-size: 1.3em; color: #6b7280; margin-top: 0;">
+  Frontend Developer
+</h2>
 
-  <!-- Tagline -->
-  <p style="font-size: 1.1em; color: #4b5563; max-width: 600px; margin: 0 auto; line-height: 1.6;">
-    🚀 Building modern, performant web applications with React & Next.js | 2+ years crafting pixel-perfect user experiences
-  </p>
+<br>
 
-  <br>
+<!-- Tagline -->
+<p style="font-size: 1.1em; color: #4b5563; max-width: 600px; margin: 0 auto; line-height: 1.6;">
+  🚀 Building modern, performant web applications with React & Next.js | 2+ years crafting pixel-perfect user experiences
+</p>
 
-  <!-- Social Links with Icons -->
-  <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-    <!-- GitHub -->
-    <a href="https://github.com/bagbag1728" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-bagbag1728-%2324292e?style=flat&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
-    </a>
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/amir-valian-10318b423/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Amir%20Valian-%230077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
-    </a>
-    <!-- Telegram -->
-    <a href="https://t.me/TURNIP2plas" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-@TURNIP2plas-%230088CC?style=flat&logo=telegram&logoColor=white&logoWidth=20" alt="Telegram" />
-    </a>
-    <!-- Email -->
-    <a href="mailto:a2266862@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-a2266862%40gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
-    </a>
-  </div>
+<br>
 
-  <br><br>
+<!-- Social Links with Badges -->
+<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://github.com/bagbag1728" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-bagbag1728-24292e?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/amir-valian-10318b423/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amir%20Valian-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/TURNIP2plas" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@TURNIP2plas-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:a2266862@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-a2266862%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-  <!-- Status Badges -->
-  <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 10px;">
-    <img src="https://img.shields.io/badge/💼_Experience-2%2B%20Years-purple?style=for-the-badge&logo=github" alt="Experience" />
-    <img src="https://img.shields.io/badge/Location-Iran-%23FF6B6B?style=for-the-badge&logo=location-dot" alt="Location" />
-    <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-%234CAF50?style=for-the-badge&logo=job&logoColor=white" alt="Open to Work" />
-    <img src="https://img.shields.io/badge/Frontend-Expert-%234F46E5?style=for-the-badge&logo=html5" alt="Frontend" />
-  </div>
+<br><br>
+
+<!-- Status Badges -->
+<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/💼_Experience-2%2B%20Years-purple?style=for-the-badge&logo=github" alt="Experience" />
+  <img src="https://img.shields.io/badge/Location-Iran-FF6B6B?style=for-the-badge&logo=location-dot" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-4CAF50?style=for-the-badge&logo=job&logoColor=white" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Frontend-Expert-4F46E5?style=for-the-badge&logo=html5" alt="Frontend" />
+</div>
 
 </div>
 
@@ -75,8 +70,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,figma,git,postman,shadcn&theme=light&perline=8" 
-       alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,figma,git,postman,shadcn&theme=light&perline=8" alt="Tech Stack Icons" />
 </p>
 
 <p align="center">
@@ -88,20 +82,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bagbag1728&theme=radical&border_color=4F46E5&bg_color=0d1117&show_icons=true&icon_color=4F46E5&include_all_commits=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=bagbag1728&show_icons=true&theme=radical&border_color=4F46E5&bg_color=0d1117&include_all_commits=true" 
        alt="GitHub Stats" 
        width="420" />
   
-  <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=bagbag1728&theme=radical&border=4F46E5&background=0d1117" 
        alt="GitHub Streak" 
        width="420" />
   
   <br><br>
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagbag1728&theme=radical&border_color=4F46E5&bg_color=0d1117&layout=compact&show_icons=true&icon_color=4F46E5" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagbag1728&theme=radical&border_color=4F46E5&bg_color=0d1117&layout=compact" 
        alt="Top Languages" 
        width="420" />
 </p>
@@ -128,11 +119,9 @@
 ## 🏆 Achievements
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/🏆-2%2B%20Years%20Experience-success?style=for-the-badge&logo=github" alt="Experience Badge" />
   <img src="https://img.shields.io/badge/⚡-Modern%20Stack-4F46E5?style=for-the-badge&logo=tech" alt="Modern Stack" />
   <img src="https://img.shields.io/badge/🎨-UI%2FUX%20Focus-7C3AED?style=for-the-badge&logo=design" alt="UI/UX Focus" />
-
 </p>
 
 ---
@@ -140,26 +129,21 @@
 ## 📬 Connect With Me
 
 <p align="center">
-
   <a href="https://t.me/TURNIP2plas" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@TURNIP2plas-%230088CC?style=for-the-badge&logo=telegram" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@TURNIP2plas-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-
   <a href="https://www.linkedin.com/in/amir-valian-10318b423/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Amir%20Valian-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Amir%20Valian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="mailto:a2266862@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-a2266862%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-a2266862%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://visitor-badge.lilys.jp/?username=bagbag1728&countColor=%234F46E5&label=Profile%20Views&style=for-the-badge" 
-       alt="Profile Views" />
+  <img src="https://visitor-badge.lilys.jp/?username=bagbag1728&countColor=%234F46E5&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -167,9 +151,7 @@
 <div align="center">
 
   <p style="color: #6b7280; font-size: 0.9em;">
-    <span style="display: inline-block; background: linear-gradient(90deg, #4F46E5, #7C3AED, #EC4899, #4F46E5); background-size: 300% 100%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
-      ✨ Made with passion by Amir Valian
-    </span>
+    ✨ Made with passion by Amir Valian
   </p>
 
   <p style="color: #4b5563; font-size: 0.8em; margin-top: 10px;">
