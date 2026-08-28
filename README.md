@@ -1,12 +1,11 @@
-[Uploading README (2).md…]()
 <div align="center">
 
-  <!-- Animated Avatar -->
+  <!-- Avatar -->
   <img src="https://avatars.githubusercontent.com/u/160089815" 
        alt="Amir Valian Avatar" 
        width="180" 
        height="180"
-       style="border-radius: 50%; border: 3px solid #4F46E5; animation: pulse 2s infinite;" />
+       style="border-radius: 50%; border: 3px solid #4F46E5;" />
 
   <br><br>
 
@@ -30,17 +29,21 @@
 
   <!-- Social Links with Icons -->
   <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-    <a href="https://github.com/bagbag1728" target="_blank" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <img src="https://img.shields.io/badge/GitHub-bagbag1728-%2324292e?style=flat&logo=github&logoWidth=20" width="40" alt="GitHub" />
+    <!-- GitHub -->
+    <a href="https://github.com/bagbag1728" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-bagbag1728-%2324292e?style=flat&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
     </a>
-    <a href="https://www.linkedin.com/in/amir-valian-10318b423/" target="_blank" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/amir-valian-10318b423/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Amir%20Valian-%230077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
     </a>
-    <a href="https://t.me/TURNIP2plas" target="_blank" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <img src="https://img.shields.io/badge/Telegram-@TURNIP2plas-%230088CC?style=flat&logo=telegram&logoWidth=20" width="40" alt="Telegram" />
+    <!-- Telegram -->
+    <a href="https://t.me/TURNIP2plas" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-@TURNIP2plas-%230088CC?style=flat&logo=telegram&logoColor=white&logoWidth=20" alt="Telegram" />
     </a>
-    <a href="mailto:a2266862@gmail.com" target="_blank" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" />
+    <!-- Email -->
+    <a href="mailto:a2266862@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-a2266862%40gmail.com-%23EA4335?style=flat&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
     </a>
   </div>
 
@@ -48,37 +51,13 @@
 
   <!-- Status Badges -->
   <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 10px;">
-    <img src="https://img.shields.io/badge/💼_Experience-2%2B%20Years-purple?style=for-the-badge&logo=github" alt="Experience" width="100" />
-    <img src="https://img.shields.io/badge/Location-Iran-%23FF6B6B?style=for-the-badge&logo=location-dot" alt="Location" width="100" />
-    <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-%234CAF50?style=for-the-badge&logo=job&logoColor=white" alt="Open to Work" width="100" />
-    <img src="https://img.shields.io/badge/Frontend-Expert-%234F46E5?style=for-the-badge&logo=html5" alt="Frontend" width="100" />
+    <img src="https://img.shields.io/badge/💼_Experience-2%2B%20Years-purple?style=for-the-badge&logo=github" alt="Experience" />
+    <img src="https://img.shields.io/badge/Location-Iran-%23FF6B6B?style=for-the-badge&logo=location-dot" alt="Location" />
+    <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-%234CAF50?style=for-the-badge&logo=job&logoColor=white" alt="Open to Work" />
+    <img src="https://img.shields.io/badge/Frontend-Expert-%234F46E5?style=for-the-badge&logo=html5" alt="Frontend" />
   </div>
 
 </div>
-
-<!-- CSS Animations -->
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(79, 70, 229, 0.4); }
-    50% { transform: scale(1.05); box-shadow: 0 0 0 15px rgba(79, 70, 229, 0); }
-    100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(79, 70, 229, 0); }
-  }
-
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-  }
-
-  @keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-
-  .animated-element {
-    animation: float 3s ease-in-out infinite;
-  }
-</style>
 
 ---
 
@@ -97,8 +76,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,figma,git,postman,shadcn&theme=light&perline=8" 
-       alt="Tech Stack Icons" 
-       style="filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1)); animation: float 4s ease-in-out infinite;" />
+       alt="Tech Stack Icons" />
 </p>
 
 <p align="center">
@@ -111,7 +89,7 @@
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bagbag1728&theme=radical&border_color=4F46E5&bg_color=0d1117&show_icons=true&icon_color=4F46E5&count_private=true&include_all_commits=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=bagbag1728&theme=radical&border_color=4F46E5&bg_color=0d1117&show_icons=true&icon_color=4F46E5&include_all_commits=true" 
        alt="GitHub Stats" 
        width="420" />
   
@@ -163,15 +141,15 @@
 
 <p align="center">
 
-  <a href="https://t.me/TURNIP2plas" target="_blank" style="margin: 0 10px; transition: all 0.3s ease;" onmouseover="this.style.opacity='1'; this.style.transform='scale(1.1)'" onmouseout="this.style.opacity='0.8'; this.style.transform='scale(1)'">
+  <a href="https://t.me/TURNIP2plas" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@TURNIP2plas-%230088CC?style=for-the-badge&logo=telegram" alt="Telegram" />
   </a>
 
-  <a href="https://www.linkedin.com/in/amir-valian-10318b423/" target="_blank" style="margin: 0 10px; transition: all 0.3s ease;" onmouseover="this.style.opacity='1'; this.style.transform='scale(1.1)'" onmouseout="this.style.opacity='0.8'; this.style.transform='scale(1)'">
+  <a href="https://www.linkedin.com/in/amir-valian-10318b423/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Amir%20Valian-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 
-  <a href="mailto:a2266862@gmail.com" target="_blank" style="margin: 0 10px; transition: all 0.3s ease;" onmouseover="this.style.opacity='1'; this.style.transform='scale(1.1)'" onmouseout="this.style.opacity='0.8'; this.style.transform='scale(1)'">
+  <a href="mailto:a2266862@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-a2266862%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 
@@ -189,13 +167,13 @@
 <div align="center">
 
   <p style="color: #6b7280; font-size: 0.9em;">
-    <span style="display: inline-block; animation: gradient 3s ease infinite; background: linear-gradient(90deg, #4F46E5, #7C3AED, #EC4899, #4F46E5); background-size: 300% 100%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    <span style="display: inline-block; background: linear-gradient(90deg, #4F46E5, #7C3AED, #EC4899, #4F46E5); background-size: 300% 100%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
       ✨ Made with passion by Amir Valian
     </span>
   </p>
 
   <p style="color: #4b5563; font-size: 0.8em; margin-top: 10px;">
-    <img src="https://img.shields.io/badge/Last%20Updated-${new Date().getFullYear()}-4F46E5?style=flat&logo=github" alt="Last Updated" />
+    <img src="https://img.shields.io/badge/Last%20Updated-2025-4F46E5?style=flat&logo=github" alt="Last Updated" />
   </p>
 
 </div>
