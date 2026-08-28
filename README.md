@@ -1,87 +1,200 @@
-[README.md](https://github.com/user-attachments/files/31560385/README.md)
-# Amir Valian
+[Uploading README (1).md…]()
+<div align="center">
 
-## 👨‍💻 Frontend Developer
+  <!-- Animated Avatar -->
+  <img src="https://avatars.githubusercontent.com/u/160089815" 
+       alt="Amir Valian Avatar" 
+       width="180" 
+       height="180"
+       style="border-radius: 50%; border: 3px solid #4F46E5; animation: pulse 2s infinite;" />
 
-![Profile](https://img.shields.io/badge/Experience-2+%20Years-purple)
-![GitHub](https://img.shields.io/badge/LinkedIn-Active-blue?logo=linkedin)
-![GitHub](https://img.shields.io/badge/Telegram-@TURNIP2plas-red?logo=telegram)
+  <br><br>
+
+  <!-- Name & Title -->
+  <h1 style="font-size: 2.5em; margin-bottom: 0.2em; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    Amir Valian
+  </h1>
+  
+  <h2 style="font-size: 1.3em; color: #6b7280; margin-top: 0;">
+    Frontend Developer
+  </h2>
+
+  <br>
+
+  <!-- Tagline -->
+  <p style="font-size: 1.1em; color: #4b5563; max-width: 600px; margin: 0 auto; line-height: 1.6;">
+    🚀 Building modern, performant web applications with React & Next.js | 2+ years crafting pixel-perfect user experiences
+  </p>
+
+  <br>
+
+  <!-- Social Links with Icons -->
+  <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+    <a href="https://github.com/bagbag1728" target="_blank" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/amir-valian-10318b423/" target="_blank" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+    </a>
+    <a href="https://t.me/TURNIP2plas" target="_blank" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://skillicons.dev/icons?i=telegram" width="40" alt="Telegram" />
+    </a>
+    <a href="mailto:a2266862@gmail.com" target="_blank" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" />
+    </a>
+  </div>
+
+  <br><br>
+
+  <!-- Status Badges -->
+  <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Experience-2%2B%20Years-purple?style=for-the-badge&logo=github" alt="Experience" />
+    <img src="https://img.shields.io/badge/Location-Iran-%23FF6B6B?style=for-the-badge&logo=location" alt="Location" />
+    <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-%234CAF50?style=for-the-badge&logo=job" alt="Open to Work" />
+  </div>
+
+</div>
+
+<!-- CSS Animations -->
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(79, 70, 229, 0.4); }
+    50% { transform: scale(1.05); box-shadow: 0 0 0 15px rgba(79, 70, 229, 0); }
+    100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(79, 70, 229, 0); }
+  }
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+  }
+
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+
+  .animated-element {
+    animation: float 3s ease-in-out infinite;
+  }
+</style>
 
 ---
 
-### 📖 About Me
+## 🔭 Currently Working On
 
-Hello! I'm **Amir Valian**, a frontend developer with over 2 years of experience in building modern web applications. I'm passionate about creating user-friendly, performant, and visually appealing digital experiences. My approach combines deep knowledge of modern frontend technologies with a focus on clean, maintainable code and thoughtful user interface design.
-
-I thrive in collaborative environments and enjoy tackling complex UI challenges, optimizing performance, and staying up-to-date with the latest industry trends. Whether working on responsive web applications, single-page apps, or contributing to design systems, I bring dedication and attention to detail to every project.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-#### Languages
-- **HTML5** — Semantic markup, accessibility best practices
-- **CSS3** — Flexbox, Grid, animations, responsive design
-- **JavaScript (ES6+)** — Modern JavaScript, async/await, DOM manipulation
-- **TypeScript** — Type-safe development, interfaces, generics
-
-#### Frameworks & Libraries
-- **React** — Components, hooks, state management, custom hooks
-- **Next.js** — SSR, SSG, API routes, App Router, server components
-- **Vue.js** — Vue 2/3, composition API, Vue Router, Pinia
-
-#### Styling
-- **Tailwind CSS** — Utility-first responsive design
-- **CSS / SCSS** — Custom properties, animations, media queries
-- **shadcn/ui** — Accessible, customizable UI components
-
-#### Design & Tools
-- **Figma** — UI/UX design, prototyping, design systems
-- **Postman** — API testing, debugging, documentation
-- **Git** — Version control, branching strategies, collaboration workflows
+| Status | Project |
+|--------|---------|
+| 🔭 **Building** | Modern web applications with React, Next.js & TypeScript |
+| 🌱 **Learning** | Advanced Frontend Architecture, Performance Optimization, Software Design Patterns |
+| 👯 **Looking to** | Collaborate on Open Source & Frontend Projects |
+| 💬 **Ask me about** | React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, Vue.js, Figma |
 
 ---
 
-### 🎯 Core Competencies
-
-| Area | Expertise |
-|------|-----------|
-| **Frontend Architecture** | Component-based design, state management, clean code patterns |
-| **Responsive Design** | Mobile-first approach, cross-browser compatibility |
-| **Performance Optimization** | Lazy loading, code splitting, asset optimization |
-| **API Integration** | REST APIs, data fetching, error handling |
-| **UI/UX Implementation** | Pixel-perfect design translation, accessibility (a11y) |
-| **Version Control** | Git workflows, pull requests, code reviews |
-
----
-
-### 💡 What I Bring to the Table
-
-- ✅ **2+ years** of hands-on frontend development experience
-- 🎨 Ability to bridge the gap between design (Figma) and implementation
-- ⚡ Fast, efficient development with modern tooling
-- 🔧 Problem-solving mindset with attention to detail
-- 🤝 Collaborative approach — comfortable working in teams
-- 📚 Continuous learner — always exploring new technologies
-
----
-
-### 📫 Contact Me
-
-| Platform | Details |
-|----------|---------|
-| **Email** | [a2266862@gmail.com](mailto:a2266862@gmail.com) |
-| **Telegram** | [@TURNIP2plas](https://t.me/TURNIP2plas) |
-| **LinkedIn** | [Amir Valian](https://www.linkedin.com/in/amir-valian-10318b423/) |
-
----
-
-### 🚀 Let's Connect
-
-I'm always open to discussing new opportunities, collaborations, or just having a chat about frontend development. Feel free to reach out through any of the channels above!
-
----
+## 🛠️ Tech Stack
 
 <p align="center">
-  Made with ❤️ by Amir Valian
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,figma,git,postman,shadcn&theme=light&perline=8" 
+       alt="Tech Stack Icons" 
+       style="filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1)); animation: float 4s ease-in-out infinite;" />
 </p>
+
+<p align="center">
+  <strong>Also familiar with:</strong> Zustand, TanStack Query, React Router, REST APIs, Vite, ESLint, Prettier
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://strdx-readme-stats.vercel.app/api?username=bagbag1728&theme=radical&border_color=4F46E5&bg_color=0d1117&show_icons=true&icon_color=4F46E5&count_private=true&include_all_commits=true" 
+       alt="GitHub Stats" 
+       width="400" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=bagbag1728&theme=radical&border=4F46E5&background=0d1117" 
+       alt="GitHub Streak" 
+       width="400" />
+  
+  <br><br>
+  
+  <!-- Top Languages -->
+  <img src="https://strdx-readme-stats.vercel.app/api/top-langs/?username=bagbag1728&theme=radical&border_color=4F46E5&bg_color=0d1117&layout=compact&show_icons=true&icon_color=4F46E5" 
+       alt="Top Languages" 
+       width="400" />
+</p>
+
+---
+
+## 🎯 Featured Projects
+
+<details>
+<summary><strong>✨ Click to view projects</strong></summary>
+<br>
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏠 **Real Estate Platform** | Full-featured property listing platform with advanced search and filtering | Next.js, TypeScript, Tailwind CSS |
+| 📚 **E-Learning Platform** | Online course marketplace with user dashboard and progress tracking | React, TypeScript, Vite |
+| 🏢 **University Website** | Official website with event management and member portals | React, TypeScript, Tailwind CSS |
+| 🎨 **Design System** | Reusable component library with consistent styling | React, shadcn/ui, Tailwind CSS |
+
+</details>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/🏆-2%2B%20Years%20Experience-success?style=for-the-badge&logo=github" alt="Experience Badge" />
+  <img src="https://img.shields.io/badge/⚡-Modern%20Stack-4F46E5?style=for-the-badge&logo=tech" alt="Modern Stack" />
+  <img src="https://img.shields.io/badge/🎨-UI%2FUX%20Focus-7C3AED?style=for-the-badge&logo=design" alt="UI/UX Focus" />
+
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+
+  <a href="https://t.me/TURNIP2plas" target="_blank" style="margin: 0 10px; transition: all 0.3s ease;" onmouseover="this.style.opacity='1'; this.style.transform='scale(1.1)'" onmouseout="this.style.opacity='0.8'; this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/Telegram-@TURNIP2plas-%230088CC?style=for-the-badge&logo=telegram" alt="Telegram" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/amir-valian-10318b423/" target="_blank" style="margin: 0 10px; transition: all 0.3s ease;" onmouseover="this.style.opacity='1'; this.style.transform='scale(1.1)'" onmouseout="this.style.opacity='0.8'; this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/LinkedIn-Amir%20Valian-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:a2266862@gmail.com" target="_blank" style="margin: 0 10px; transition: all 0.3s ease;" onmouseover="this.style.opacity='1'; this.style.transform='scale(1.1)'" onmouseout="this.style.opacity='0.8'; this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/Gmail-a2266862%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://visitor-badge.lilys.jp/?username=bagbag1728&countColor=%234F46E5&label=Profile%20Views&style=for-the-badge" 
+       alt="Profile Views" />
+</p>
+
+---
+
+<div align="center">
+
+  <p style="color: #6b7280; font-size: 0.9em;">
+    <span style="display: inline-block; animation: gradient 3s ease infinite; background: linear-gradient(90deg, #4F46E5, #7C3AED, #EC4899, #4F46E5); background-size: 300% 100%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+      ✨ Made with passion by Amir Valian
+    </span>
+  </p>
+
+  <p style="color: #4b5563; font-size: 0.8em; margin-top: 10px;">
+    <img src="https://img.shields.io/badge/Last%20Updated-${new Date().getFullYear()}-4F46E5?style=flat&logo=github" alt="Last Updated" />
+  </p>
+
+</div>
