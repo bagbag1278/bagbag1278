@@ -1,4 +1,4 @@
-[Uploading README (1).md…]()
+[Uploading README (2).md…]()
 <div align="center">
 
   <!-- Animated Avatar -->
@@ -31,13 +31,13 @@
   <!-- Social Links with Icons -->
   <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
     <a href="https://github.com/bagbag1728" target="_blank" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-bagbag1728-%2324292e?style=flat&logo=github&logoWidth=20" width="40" alt="GitHub" />
     </a>
     <a href="https://www.linkedin.com/in/amir-valian-10318b423/" target="_blank" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
     </a>
     <a href="https://t.me/TURNIP2plas" target="_blank" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-      <img src="https://skillicons.dev/icons?i=telegram" width="40" alt="Telegram" />
+      <img src="https://img.shields.io/badge/Telegram-@TURNIP2plas-%230088CC?style=flat&logo=telegram&logoWidth=20" width="40" alt="Telegram" />
     </a>
     <a href="mailto:a2266862@gmail.com" target="_blank" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
       <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" />
@@ -47,10 +47,11 @@
   <br><br>
 
   <!-- Status Badges -->
-  <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Experience-2%2B%20Years-purple?style=for-the-badge&logo=github" alt="Experience" />
-    <img src="https://img.shields.io/badge/Location-Iran-%23FF6B6B?style=for-the-badge&logo=location" alt="Location" />
-    <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-%234CAF50?style=for-the-badge&logo=job" alt="Open to Work" />
+  <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 10px;">
+    <img src="https://img.shields.io/badge/💼_Experience-2%2B%20Years-purple?style=for-the-badge&logo=github" alt="Experience" width="100" />
+    <img src="https://img.shields.io/badge/Location-Iran-%23FF6B6B?style=for-the-badge&logo=location-dot" alt="Location" width="100" />
+    <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-%234CAF50?style=for-the-badge&logo=job&logoColor=white" alt="Open to Work" width="100" />
+    <img src="https://img.shields.io/badge/Frontend-Expert-%234F46E5?style=for-the-badge&logo=html5" alt="Frontend" width="100" />
   </div>
 
 </div>
@@ -110,21 +111,21 @@
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://strdx-readme-stats.vercel.app/api?username=bagbag1728&theme=radical&border_color=4F46E5&bg_color=0d1117&show_icons=true&icon_color=4F46E5&count_private=true&include_all_commits=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=bagbag1728&theme=radical&border_color=4F46E5&bg_color=0d1117&show_icons=true&icon_color=4F46E5&count_private=true&include_all_commits=true" 
        alt="GitHub Stats" 
-       width="400" />
+       width="420" />
   
   <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=bagbag1728&theme=radical&border=4F46E5&background=0d1117" 
        alt="GitHub Streak" 
-       width="400" />
+       width="420" />
   
   <br><br>
   
   <!-- Top Languages -->
-  <img src="https://strdx-readme-stats.vercel.app/api/top-langs/?username=bagbag1728&theme=radical&border_color=4F46E5&bg_color=0d1117&layout=compact&show_icons=true&icon_color=4F46E5" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagbag1728&theme=radical&border_color=4F46E5&bg_color=0d1117&layout=compact&show_icons=true&icon_color=4F46E5" 
        alt="Top Languages" 
-       width="400" />
+       width="420" />
 </p>
 
 ---
