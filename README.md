@@ -3,10 +3,7 @@
 
 <br><br>
 
-<!-- Name & Title -->
-<h1 style="font-size: 2.5em; margin-bottom: 0.2em; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
-  Amir Valian
-</h1>
+
 
 <h2 style="font-size: 1.3em; color: #6b7280; margin-top: 0;">
   Frontend Developer
