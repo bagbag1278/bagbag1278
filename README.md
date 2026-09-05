@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- Avatar -->
-<img src="https://avatars.githubusercontent.com/u/160089815" 
-     alt="Amir Valian Avatar" 
-     width="160" 
-     style="border-radius: 50%; border: 3px solid #4F46E5;" />
 
 <br><br>
 
